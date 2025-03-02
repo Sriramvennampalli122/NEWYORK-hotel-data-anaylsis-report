@@ -1,0 +1,1 @@
+This analysis report contain the dataset(AB_NYC_2019.csv) of hotels in the rewyork city and how the dataset is cleaned and created new dataset(AB_NYC_2019.csv) after it also included the program files for analyzing the dataset both visually and numerically
